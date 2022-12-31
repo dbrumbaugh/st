@@ -3,3 +3,4 @@ st
 .ccls
 .ccls-cache
 *.orig
+config.h
