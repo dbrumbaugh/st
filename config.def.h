@@ -525,4 +525,4 @@ static char ascii_printable[] =
  * plumb_cmd is run on mouse button 3 click, with first NULL set to
  * current selection and with cwd set to the cwd of the active shell
  */
-static char *plumb_cmd[] = {"plumb", "-m", NULL, NULL};
+static char *plumb_cmd[] = {"plumb", NULL, NULL};
